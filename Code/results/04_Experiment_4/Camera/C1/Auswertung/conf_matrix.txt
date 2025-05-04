@@ -1,0 +1,9 @@
+Konfusionsmatrix-Ergebnisse:
+True Positives (TP): 4
+False Positives (FP): 0
+False Negatives (FN): 11
+
+Metriken:
+Precision: 1.0000
+Recall:    0.2667
+F1-Score:  0.4211

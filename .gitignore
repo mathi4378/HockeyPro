@@ -1,0 +1,36 @@
+#Excel
+*.xlsx
+*.xls
+
+
+# Video-Dateien
+*.mp4
+*.mov
+*.avi
+
+# Bilddateien
+.jpeg
+.jpg
+.png
+
+#Netzwerke
+*.pt
+*.onnx
+
+#Cache
+*.pyc
+*.venv
+
+#files
+/Code/Hit_detect_frames.py
+/Ideen.md
+/Code/old/Plot_hits.py
+/Code/old/Post_processing.py
+/Code/Taking_Videos.py
+/Code/Support_code/Video_cutting.py
+/Code/old/Pipeline.py
+/Code/old/Hit_detect.py
+
+
+
+

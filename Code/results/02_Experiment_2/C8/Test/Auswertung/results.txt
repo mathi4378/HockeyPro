@@ -1,0 +1,8 @@
+Präzisionsanalyse der Treffer
+========================================
+Standardabweichung X: 26.408
+Standardabweichung Y: 27.570
+Relative Standardabweichung X: 18.391
+Relative Standardabweichung Y: 67.306
+Abweichung von True X: 0.000
+Abweichung von True Y: 0.000

@@ -1,0 +1,54 @@
+A1
+Metriken:
+Precision: 1.0000
+Recall:    0.8667
+F1-Score:  0.9286
+
+A5
+Metriken:
+Precision: 0.5769
+Recall:    1.0000
+F1-Score:  0.7317
+
+A9
+Metriken:
+Precision: 0.4286
+Recall:    0.2000
+F1-Score:  0.2727
+
+C1
+Metriken:
+Precision: 1.0000
+Recall:    0.2667
+F1-Score:  0.4211
+
+C5
+Metriken:
+Precision: 1.0000
+Recall:    1.0000
+F1-Score:  1.0000
+
+C9
+Metriken:
+Precision: 0.6667
+Recall:    0.8000
+F1-Score:  0.7273
+
+E1
+Metriken:
+Precision: 0.5556
+Recall:    0.3333
+F1-Score:  0.4167
+
+
+E5
+Metriken:
+Precision: 0.3421
+Recall:    0.8667
+F1-Score:  0.4906
+
+E9
+Metriken:
+Precision: 0.8667
+Recall:    0.8667
+F1-Score:  0.8667
