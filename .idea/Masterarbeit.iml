@@ -3,11 +3,11 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Code/Support_code" />
+      <excludeFolder url="file://$MODULE_DIR$/Code/results" />
       <excludeFolder url="file://$MODULE_DIR$/Videos" />
       <excludeFolder url="file://$MODULE_DIR$/Yolo_Training" />
       <excludeFolder url="file://$MODULE_DIR$/runs" />
-      <excludeFolder url="file://$MODULE_DIR$/Code/Support_code" />
-      <excludeFolder url="file://$MODULE_DIR$/Code/results" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
