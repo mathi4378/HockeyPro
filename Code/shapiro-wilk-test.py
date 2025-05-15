@@ -11,7 +11,6 @@ csv_file = os.path.join(csv_path, "grouped_hits.csv")
 data = pd.read_csv(csv_file)
 
 # Extrahieren der x- und y-Koordinaten
-# Annahme: Die Spalte 'Position (x, y) in cm' enthält die Koordinaten im Format "(x, y)"
 data['Position'] = data['Position (x, y) in cm'].apply(lambda pos: eval(pos))  # Umwandlung der String-Position in Tupel
 data['x'], data['y'] = zip(*data['Position'])  # Entpacken der Tupel in x und y
 
